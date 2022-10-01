@@ -3,6 +3,7 @@ module Olery
     class Server < Sinatra::Base
 
       use V1::Controller::Users
+      use V1::Controller::Hotels
 
     end
   end
