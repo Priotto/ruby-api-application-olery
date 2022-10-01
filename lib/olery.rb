@@ -17,6 +17,8 @@ require_relative 'olery/models/user'
 require_relative 'olery/models/contract'
 require_relative 'olery/models/hotel'
 require_relative 'olery/models/hotels_group'
+require_relative 'olery/models/group'
+require_relative 'olery/models/group_subscription'
 
 #Server
 require_relative 'olery/v1_server'
